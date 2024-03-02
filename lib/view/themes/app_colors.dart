@@ -4,6 +4,7 @@ class AppColors {
   static const transparent = Colors.transparent;
   static const black = Colors.black;
   static const white = Colors.white;
+  static const coconut = Color(0x80fff1e6);
   static const grey = Colors.grey;
   static const blue = Colors.blue;
   static const green = Colors.green;
